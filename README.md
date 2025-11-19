@@ -23,7 +23,7 @@ This script trains a convolutional autoencoder (CAE) on the droplet silhouettes 
 Output includes:
 
 * `latent_vectors.npy`
-* reconstructed contour images (optional)
+* reconstructed contour images
 
 These serve as inputs for all supervised and unsupervised models.
 
