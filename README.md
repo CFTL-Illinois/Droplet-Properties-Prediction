@@ -94,7 +94,7 @@ This script performs clustering (KMeans and/or GMM) on the latent vectors, ident
 ├── train_model3_tension&viscosity.py
 ├── train_model4_figure.py       # MLP for figure/demo
 ├── unsupervised.py              # clustering analysis (KMeans/GMM)
-├── blueonly                     # Contours for droplet shape
+├── blueonly                     # Contours for droplet shape (** As the contours data is heavy, we only upload a few representative data here! **)
 ├── data.xlsx                    # Liquid property and experimental configuration data
 ```
 
